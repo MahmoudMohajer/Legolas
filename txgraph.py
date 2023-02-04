@@ -1,3 +1,6 @@
+"""
+this module is for creating nodes and relationships between two wallet addresses in the Neo4j graph database.
+"""
 from etherscan import Transactions
 
 class TxWriter:
